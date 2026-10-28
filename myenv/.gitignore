@@ -1,7 +1,17 @@
+# VS Code
 .vscode/
+
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Окружение и секреты
 .env
-.gigaide/
-.idea/
-myenv/
+
+# Прочее
+.DS_Store
+Thumbs.db
