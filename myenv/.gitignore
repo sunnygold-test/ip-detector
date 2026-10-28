@@ -8,6 +8,8 @@ __pycache__/
 .venv/
 venv/
 env/
+Scripts/
+Lib/
 
 # Окружение и секреты
 .env
